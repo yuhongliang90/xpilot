@@ -15,3 +15,6 @@ xpilot source hub
 
 ## 追踪
 - KCF
+
+## 模式解释
+- https://github.com/tensorflow/lucid
